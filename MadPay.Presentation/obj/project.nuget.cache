@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "F3tBw/j2zheDVZRBEdAL93oe+YhgMBCzCnLQmH7AY9N4DXTWIgdZE7DrIJVN9neRe/uE4irF6wM0ScG81/U8PA==",
+  "success": true,
+  "projectFilePath": "D:\\new project\\MadPayServer\\MadPay.Presentation\\MadPay.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Internet\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.17\\microsoft.aspnetcore.jsonpatch.3.1.17.nupkg.sha512",
+    "C:\\Users\\Internet\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.17\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.17.nupkg.sha512",
+    "C:\\Users\\Internet\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Internet\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Internet\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
